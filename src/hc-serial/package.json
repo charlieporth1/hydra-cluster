@@ -24,6 +24,6 @@
     "jscs": "3.0.7",
     "jscs-jsdoc": "2.0.0",
     "mocha": "3.0.2",
-    "superagent": "2.2.0"
+    "superagent": "6.1.0"
   }
 }
